@@ -1,6 +1,6 @@
 <h1 align="center"> Robert Lewis </h1>
 
-<h2 align="center"> What you need to know about me </h2>
+<p align="center" font-size="5rem"> What you need to know about me </p>
 
 <!--
 **Robbysim37/Robbysim37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
