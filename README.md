@@ -1,6 +1,6 @@
 <h1 align="center"> Robert Lewis </h1>
 
-### :memo: :pencil:
+### :memo: My Bio
 
 ### :toolbox: My Toolbelt
 
