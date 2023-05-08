@@ -25,7 +25,7 @@
   <li>https://qizurd-robsim37.vercel.app/</li>
 </ul>
 
-<h2>:hourglass_flowing_sand: Future projects/ideas</h2>
+<h2>:hourglass_flowing_sand: Future Projects/Ideas</h2>
 
 <ul>
   <li> A Rock Paper Scissors program that can make accurate predictions based on pattern recognition </li>
@@ -40,7 +40,7 @@
   <li> Website for local highschool that builds class schedules and total cirriculum progress for each student </li>
 </ul>
 
-<h2>:books: Currently learning...</h2>
+<h2>:books: Currently Learning...</h2>
 
 <ul>
   <li> Basic computer science (abstract data types) </li>
