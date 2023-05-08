@@ -21,6 +21,10 @@
 
 <h2>:hourglass_flowing_sand: Future projects/ideas</h2>
 
+<ul>
+  <li> A Rock Paper Scissors program that can make accurate predictions based on pattern recognition </li>
+  <li> Website for local highschool that builds class schedules and total cirriculum progress for each student </li>
+</ul>
 
 <!--
 **Robbysim37/Robbysim37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
