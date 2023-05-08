@@ -2,7 +2,7 @@
 
 <h6>:memo: My Bio</h6>
 
-<h6>:toolbox: My Toolbelt</h6>
+<h3>:toolbox: My Toolbelt</h3>
 
 <div display="flex">
   
