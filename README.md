@@ -19,6 +19,12 @@
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
+<h2>:heavy_check_mark: Projects!</h2>
+
+<ul>
+  <li>https://qizurd-robsim37.vercel.app/</li>
+</ul>
+
 <h2>:hourglass_flowing_sand: Future projects/ideas</h2>
 
 <ul>
