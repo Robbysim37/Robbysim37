@@ -1,8 +1,8 @@
 <h1 align="center"> Robert Lewis </h1>
 
-<h6>:memo: My Bio</h6>
+<h2>:memo: My Bio</h2>
 
-<h3>:toolbox: My Toolbelt</h3>
+<h2>:toolbox: My Toolbelt</h2>
 
 <div display="flex">
   
