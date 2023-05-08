@@ -1,6 +1,7 @@
 <h1 align="center"> Robert Lewis </h1>
 
 <h2>:memo: My Bio</h2>
+<p> I'm currently a student developoer for Bloomtech Institute of Technology, I started my computer science studies in July of 2022 and have enjoyed programming ever since, Once i've finished my courses I plan to spend my time searching for a job in the field and furthering my skills on my own free time. I have a lot of projects I can't wait to work on!
 
 <h2>:toolbox: My Toolbelt</h2>
 
