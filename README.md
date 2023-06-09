@@ -36,15 +36,13 @@
 <h2>:black_nib: Currently Working on...</h2>
 
 <ul>
-  <li> Bloomtech's cirriculum,  estimated complete in less than a month </li>
-  <li> My portfolio website to house all of my projects in an organized and accessible way </li>
   <li> Website for local highschool that builds class schedules and total cirriculum progress for each student </li>
 </ul>
 
 <h2>:books: Currently Learning...</h2>
 
 <ul>
-  <li> Basic computer science (abstract data types) </li>
+  <li> TypeScript </li>
   <li> Learning C# so I can pick up learning a game engine like Unity or Unreal Engine </li>
 </ul>
 
