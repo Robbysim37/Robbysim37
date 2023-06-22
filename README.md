@@ -30,6 +30,7 @@
 
 <ul>
   <li> A Rock Paper Scissors program that can make accurate predictions based on pattern recognition </li>
+  <li> An API that will automatically send "Thank you" messages when people wish my happy birthday </li>
   <li> recreating the dice game "Knucklebones" with AI that can play strategically </li>
 </ul>
 
